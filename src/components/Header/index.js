@@ -76,6 +76,7 @@ class Header extends Component {
             <img
               src="https://res.cloudinary.com/djan3q2wv/image/upload/v1740063005/logout_mesfip.png"
               className="logout-logo"
+              alt="logo"
             />
             <p className="logout-text">Logout</p>
           </button>
